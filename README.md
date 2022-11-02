@@ -1,1 +1,1 @@
-a script that runs a C file through the preprocessor and save the result into another file
+She locked away a secret, deep inside herself, something she once knew to be true... but chose to forget
